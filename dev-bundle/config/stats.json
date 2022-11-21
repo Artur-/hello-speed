@@ -1,5 +1,13 @@
 {
  "npmModules": [
+  "@fullcalendar/common",
+  "@fullcalendar/core",
+  "@fullcalendar/daygrid",
+  "@fullcalendar/interaction",
+  "@fullcalendar/list",
+  "@fullcalendar/moment",
+  "@fullcalendar/moment-timezone",
+  "@fullcalendar/timegrid",
   "@lit/reactive-element",
   "@polymer/polymer",
   "@vaadin-component-factory/vcf-nav",
@@ -74,10 +82,14 @@
   "date-fns",
   "highcharts",
   "is-regexp",
+  "lit",
   "lit-element",
   "lit-html",
   "mgrs",
+  "moment",
+  "moment-timezone",
   "ol",
+  "preact",
   "proj4",
   "quickselect",
   "rbush",
@@ -85,5 +97,5 @@
   "tslib",
   "wkt-parser"
  ],
- "packageJsonHash": "1a8364ff32b8f3d580955ae2042e8aa3e60badf820b0c48d2ec2ddc77601d80f"
+ "packageJsonHash": "6221e2e1e52425867b0c1cf64e6906b404bc3c7b040025175a2bf13969fa545e"
 }
